@@ -1,99 +1,39 @@
-# 👋 Hi, I’m **Frederick Baffour**
-### **AI Security Assurance Engineer | LLM Red Teaming | Model Supply-Chain Security | AI Risk & Governance**
+👋 Hi, I’m Frederick Baffour  
+AI Security Assurance Engineer | LLM Red Teaming | Model Supply-Chain Security
 
-Welcome to my GitHub.  
-I specialize in **AI Security Assurance**, focusing on the end-to-end security, safety, and governance of AI systems — from model intake and supply-chain verification to adversarial red-teaming, risk classification, and runtime monitoring.
+I specialize in AI Security Assurance, focusing on how AI models are evaluated, tested, and documented before use in real environments. My work covers the full lifecycle—from model intake and supply-chain verification to adversarial testing and structured reporting.
 
-My work bridges **deep technical engineering** and **governance-aligned AI risk management**, following NIST AI RMF, MITRE ATLAS, and ISO 42001 practices.
+My background is in enterprise security engineering, and I apply the same discipline to AI systems: clear methodology, reproducible testing, and evidence-based conclusions.
 
----
+## 🔐 What I Work On
+- AI Security Assurance engineering  
+- LLM red teaming (Garak, Promptfoo, manual testing)  
+- Jailbreak, prompt-injection, and refusal-bypass evaluation  
+- Model supply-chain integrity (hashing, SBOMs, static analysis)  
+- Secure model execution and misuse analysis  
 
-# 🔐 What I Do
+## 🧰 Core Tools
+- Garak, Promptfoo  
+- YARA, ClamAV, Sigcheck  
+- Syft / Grype  
+- Ollama, HuggingFace CLI  
 
-### **AI Security Assurance Engineering**
-- LLM red teaming (Garak, Promptfoo, manual stress testing)  
-- Jailbreak, prompt injection, and refusal bypass evaluation  
-- Safety + toxicity checks, hallucination analysis  
-- Secure model execution environments  
-- AI system misuse and abuse surface analysis  
+## 📘 Featured Work
+🔐 **AI Security Assurance Labs**  
+End-to-end portfolio demonstrating:
+- Model intake & supply-chain verification  
+- Hashing, YARA, ClamAV, SBOM workflows  
+- LLM red teaming & behavioral evaluation  
+- Clear, reviewer-friendly documentation  
 
-### **Model Supply-Chain & Integrity**
-- SHA-256 model hashing  
-- YARA static rules for malicious content  
-- ClamAV malware scanning  
-- Sigcheck binary verification  
-- Model provenance + metadata validation  
-- SBOM generation & dependency risk assessment  
+👉 https://github.com/fred-ai-security/ai-security-assurance-labs
 
-### **AI Risk, Governance & Compliance**
-- Model risk classification frameworks  
-- Criticality tiering (Low → Critical)  
-- NIST AI RMF mapping: Govern / Map / Measure / Manage  
-- ISO/IEC 42001 alignment  
-- MITRE ATLAS TTP mapping  
-- Governance-ready documentation & evaluation summaries  
-
----
-
-# 🧰 Tools, Frameworks & Platforms
-
-**Security & Scanning**
-- Garak  
-- Promptfoo  
-- YARA  
-- ClamAV  
-- Sigcheck  
-- Syft / Trivy  
-- SHA-256 hashing  
-
-**AI & LLM Ops**
-- Ollama  
-- HuggingFace CLI  
-- Containerized inference  
-- Model runtime validation  
-- Safety + moderation classifiers  
-
-**Frameworks**
-- NIST AI RMF  
-- MITRE ATLAS  
-- ISO/IEC 42001  
-- OWASP LLM Top 10  
-
----
-
-# 📘 Featured Repository  
-### 🔐 **AI Security Assurance Labs**  
-A full end-to-end professional portfolio demonstrating:
-- Model intake + supply-chain security  
-- Hashing, YARA, ClamAV, SBOM, Sigcheck  
-- Automated LLM red teaming  
-- Prompt injection & jailbreak frameworks  
-- Governance-aligned evaluation documentation  
-
-👉 **https://github.com/fred-ai-security/ai-security-assurance-labs**
-
----
-
-# 🎯 What I’m Focusing On
-- Advancing my AI Security Assurance engineering practice  
-- Strengthening model supply-chain trust  
-- Automating LLM adversarial evaluations  
-- Building governance-aligned AI risk documentation  
-- Researching model misuse cases & threat patterns  
-
----
-
-# 🤝 Open to Roles & Collaboration
+## 🤝 Open to Roles
 - AI Security Engineer  
-- AI Safety / Governance Engineer  
 - LLM Red Team Engineer  
 - Model Evaluation & Assurance  
-- AI Risk / AI Systems Security  
+- AI Systems Security  
 
----
-
-# 📬 Contact
-**Email:** fbaffour@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/frederick-baffour  
-
-Let’s build secure, responsible, and trustworthy AI systems.
+📬 **Contact**  
+Email: fbaffour@gmail.com  
+LinkedIn: https://www.linkedin.com/in/frederick-baffour
