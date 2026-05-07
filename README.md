@@ -45,5 +45,7 @@ End-to-end portfolio demonstrating a six-stage AI Security Assurance lifecycle:
 - AI Security Consulting & Subcontracting
 
 📬 **Contact**
+
 Email: fbaffour@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/frederick-baffour
